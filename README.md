@@ -6,4 +6,4 @@
 
 ## Print da tela da página criada (Curriculum Vitae)
 
-![alt text](Curriculo.png)
+<img width="957" height="767" alt="Curriculo" src="https://github.com/user-attachments/assets/dd8f73d2-3915-4aa1-8f02-d72ba90d20c3" />
